@@ -219,3 +219,5 @@ __marimo__/
 
 # Susanna
 **.DS_Store
+results/
+wandb/
